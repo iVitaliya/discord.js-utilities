@@ -1,5 +1,5 @@
 {
-  "name": "@iVitaliya/discord.js-utilities",
+  "name": "@iVitaliya/discord.js-bot-utilities",
   "version": "1.0.1",
   "description": "A utilities Discord.JS package, mainly includes fetching and database implementation.",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
     "test": "exit 0"
   },
   "repository": {
-    "url": "https://github.com/iVitaliya/discord.js-utilities.git"
+    "url": "https://github.com/iVitaliya/discord.js-bot-utilities.git"
   },
   "dependencies": {
     "chalk": "^4.1.1",
