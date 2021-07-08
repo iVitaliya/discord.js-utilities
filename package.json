@@ -1,11 +1,14 @@
 {
-  "name": "discord.js-utilities",
+  "name": "@iVitaliya/discord.js-utilities",
   "version": "1.0.1",
   "description": "A utilities Discord.JS package, mainly includes fetching and database implementation.",
   "main": "src/index.js",
   "author": "iVitaliya",
   "license": "Apache-2.0",
   "private": false,
+  "scripts": {
+    "test": "exit 0"
+  },
   "dependencies": {
     "chalk": "^4.1.1",
     "discord.js": "^12.5.3",
