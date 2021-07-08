@@ -9,6 +9,9 @@
   "scripts": {
     "test": "exit 0"
   },
+  "repository": {
+    "url": "https://github.com/iVitaliya/discord.js-utilities.git"
+  },
   "dependencies": {
     "chalk": "^4.1.1",
     "discord.js": "^12.5.3",
