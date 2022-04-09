@@ -15,7 +15,7 @@
   "dependencies": {
     "chalk": "^4.1.1",
     "discord.js": "^12.5.3",
-    "moment": "^2.29.1"
+    "moment": "^2.29.2"
   },
   "publishConfig": {
     "@iVitaliya:registry": "https://npm.pkg.github.com"
